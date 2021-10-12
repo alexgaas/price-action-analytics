@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5f3f9dcc05601888ca5f8cce032c0f7be396df3d7866f0590dbd6b40b2ba8bf1"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "finance": {
+            "hashes": [
+                "sha256:498e61ea8aa922b6aefd33b3960d0404be22e1bb47edcc910ac9723da4e715c0"
+            ],
+            "index": "pypi",
+            "version": "==0.2502"
+        }
+    },
+    "develop": {}
+}
